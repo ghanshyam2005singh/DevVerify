@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import { Github, Linkedin, Mail, Twitter, CheckCircle2 } from 'lucide-react';
 import { cn } from '../lib/utils';
