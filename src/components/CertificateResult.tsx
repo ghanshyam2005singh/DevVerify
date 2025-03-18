@@ -6,7 +6,7 @@ import { cn } from '../lib/utils';
 // Mock data for demonstration - replace with actual data fetching
 const mockCertificates = [
   {
-      "id": "HH-E5AFCA",
+      "id": "HH-31C96F",
       "candidateName": "Vedant Anand",
       "collegeName": "",
       "certificateType": "Internship",
@@ -15,7 +15,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1s3bD-U0t_k7JCHVBt2YTBumJvhrBI3K_",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://GitHub.com/vedantanand17",
@@ -25,7 +25,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-F35AF0",
+      "id": "HH-DC7DA0",
       "candidateName": "Ghanshyam Singh",
       "collegeName": "",
       "certificateType": "Internship",
@@ -34,7 +34,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1QiEQMRCdIFM_MZ8dvGSP_bhQOrldxhQa",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/ghanshyam2005singh",
@@ -44,7 +44,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-B25DC8",
+      "id": "HH-ED9FF6",
       "candidateName": "Anushka Tiwari",
       "collegeName": "",
       "certificateType": "Internship",
@@ -53,7 +53,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1o9zeIBAmPYVT2-2NFAgEpHpf0WIqBjbz",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/anushka226",
@@ -63,7 +63,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-8F670E",
+      "id": "HH-22A69D",
       "candidateName": "Ayushmaan Singh yadav ",
       "collegeName": "",
       "certificateType": "Internship",
@@ -72,7 +72,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1fc2_7Bd3EDB703t5HGx9o54fW6_nc1o_",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/asteriskayush007",
@@ -82,7 +82,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-DA503C",
+      "id": "HH-E18B32",
       "candidateName": "Chiranth Raju C ",
       "collegeName": "",
       "certificateType": "Internship",
@@ -91,7 +91,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1xOCO1L3kXg9T6ewM9h4Lh5xOLbAVEBgj",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/CHIRANTH-24/",
@@ -101,7 +101,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-5B3B2C",
+      "id": "HH-CF1AA9",
       "candidateName": "Karishma Seth",
       "collegeName": "",
       "certificateType": "Internship",
@@ -110,7 +110,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1LBG8f18k8rkk3DsSoNwIcITCRkBufqum",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/karishmaaa101",
@@ -120,7 +120,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-1CA687",
+      "id": "HH-7C1A67",
       "candidateName": "Piyush Prasad",
       "collegeName": "",
       "certificateType": "Internship",
@@ -129,7 +129,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1aYkrJKPUorD7-57JjsRXTT2UeTXcZUh8",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/piyzard",
@@ -139,7 +139,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-77A864",
+      "id": "HH-817F6E",
       "candidateName": "Yash Kumar Saini",
       "collegeName": "",
       "certificateType": "Internship",
@@ -148,7 +148,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1cvijjT7GlWLnJyGICym3NGzqf6mnjBBH",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/yashksaini-coder",
@@ -158,7 +158,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-CEB7D7",
+      "id": "HH-9B3B0D",
       "candidateName": "Harshit Verma ",
       "collegeName": "",
       "certificateType": "Internship",
@@ -167,7 +167,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1_fMo9Om0aOusqYG_slMWUwnPMnB2CJvE",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/therealharshit",
@@ -177,7 +177,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-A53EAA",
+      "id": "HH-B8F4E8",
       "candidateName": "Sayan Rakshit",
       "collegeName": "",
       "certificateType": "Internship",
@@ -186,7 +186,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1e8puQrDC_DV-vl-N4w7kN1b9dzVa7BCR",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/devsayanR",
@@ -196,7 +196,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-67E110",
+      "id": "HH-3E07EE",
       "candidateName": "sneha kumari",
       "collegeName": "",
       "certificateType": "Internship",
@@ -205,7 +205,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1L3-SW262tXGOue_OEdaJ8foMA6vvntu3",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/Snehsk",
@@ -215,7 +215,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-58AA0B",
+      "id": "HH-BD35EF",
       "candidateName": "Hetvi Popat",
       "collegeName": "",
       "certificateType": "Internship",
@@ -224,7 +224,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1xjrFDU_3S_k5zIGUYyjWc4xrWK2K0B2V",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "",
@@ -234,7 +234,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-8BD123",
+      "id": "HH-9829E6",
       "candidateName": "Manishka Asrani",
       "collegeName": "",
       "certificateType": "Internship",
@@ -243,7 +243,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1NkfMdyJtECrq2hgA5ZG2R3ev3KFn6WHl",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/manishka119",
@@ -253,7 +253,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-D95E84",
+      "id": "HH-01BAB9",
       "candidateName": "Devaki Joshi",
       "collegeName": "",
       "certificateType": "Internship",
@@ -262,7 +262,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1HW0Tuo9iyCicYH294JzMUfndPkzTMN4P",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/Devaki01",
@@ -272,7 +272,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-73B949",
+      "id": "HH-49EA03",
       "candidateName": "Ramakrushna Biswal",
       "collegeName": "",
       "certificateType": "Internship",
@@ -281,7 +281,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1bK47IC7lqZ71vfnX1fyEs9RiSyYuEH1g",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/RamakrushnaBiswal",
@@ -291,7 +291,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-CADB54",
+      "id": "HH-C40957",
       "candidateName": "Sanchit Sehgal ",
       "collegeName": "",
       "certificateType": "Internship",
@@ -300,7 +300,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1JeBuVWSOZJbN5JFCJ2dC5Q-vx-tiOPE3",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/Sanchit-aiml",
@@ -310,7 +310,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-F42F64",
+      "id": "HH-A88BC7",
       "candidateName": "Divyam Sharma",
       "collegeName": "",
       "certificateType": "Internship",
@@ -319,7 +319,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1dHhTxHEGXgS1nOaVsimFqdEqFsbqOpsb",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/Divyamsharma-18",
@@ -329,7 +329,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-B5261E",
+      "id": "HH-396E76",
       "candidateName": "Muskan kashyap ",
       "collegeName": "",
       "certificateType": "Internship",
@@ -338,7 +338,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1JNAr5ZZnKsZl89vRIx3h5mN95FyZgb-U",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/Muskankashyap12",
@@ -348,7 +348,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-99C654",
+      "id": "HH-2245A7",
       "candidateName": "Saumili Dutta",
       "collegeName": "",
       "certificateType": "Internship",
@@ -357,7 +357,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1VMzhJr5kSOpzIJ01odANCtx_MyhblONO",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/aumiidutta",
@@ -367,7 +367,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-FF837E",
+      "id": "HH-9E0587",
       "candidateName": "Aditya D",
       "collegeName": "",
       "certificateType": "Internship",
@@ -376,7 +376,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1g4xsDPy_7HPN9_8MNK_uKyvvywXgoC5H",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/adi271001",
@@ -386,7 +386,7 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-12D9B0",
+      "id": "HH-81A6AE",
       "candidateName": "Sanskriti",
       "collegeName": "",
       "certificateType": "Internship",
@@ -395,7 +395,7 @@ const mockCertificates = [
           "start": "December 1, 2024",
           "end": "January 31, 2025"
       },
-      "photo": "https://drive.google.com/open?id=1u_ORvxPHaHojAprYyZ1UJ1kN_W1SLxP0",
+      "photo": "",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/sanskriti2005",
