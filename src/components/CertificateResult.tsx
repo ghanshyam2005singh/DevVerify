@@ -13,7 +13,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -32,7 +32,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -51,7 +51,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -70,7 +70,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -89,7 +89,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -108,7 +108,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -127,7 +127,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -146,7 +146,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -165,7 +165,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -184,7 +184,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -203,7 +203,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -222,7 +222,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -241,7 +241,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -260,7 +260,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -279,7 +279,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -298,7 +298,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -317,7 +317,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -336,7 +336,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -355,7 +355,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -374,7 +374,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
@@ -393,7 +393,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "December 1, 2024",
-          "end": "February 31, 2025"
+          "end": "February 28, 2025"
       },
       "photo": "",
       "photoSource": "linkedin",
