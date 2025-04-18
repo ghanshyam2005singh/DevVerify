@@ -129,7 +129,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1cvijjT7GlWLnJyGICym3NGzqf6mnjBBH",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/yashksaini-coder",
@@ -148,7 +148,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1_fMo9Om0aOusqYG_slMWUwnPMnB2CJvE",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/therealharshit",
@@ -167,7 +167,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1e8puQrDC_DV-vl-N4w7kN1b9dzVa7BCR",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/devsayanR",
@@ -186,7 +186,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1L3-SW262tXGOue_OEdaJ8foMA6vvntu3",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/Snehsk",
@@ -205,7 +205,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1xjrFDU_3S_k5zIGUYyjWc4xrWK2K0B2V",
       "photoSource": "linkedin",
       "socials": {
           "github": "",
@@ -224,7 +224,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1NkfMdyJtECrq2hgA5ZG2R3ev3KFn6WHl",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/manishka119",
@@ -243,7 +243,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1HW0Tuo9iyCicYH294JzMUfndPkzTMN4P",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/Devaki01",
@@ -262,7 +262,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1bK47IC7lqZ71vfnX1fyEs9RiSyYuEH1g",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/RamakrushnaBiswal",
@@ -272,28 +272,9 @@ const mockCertificates = [
       }
   },
   {
-      "id": "HH-C40957",
-      "candidateName": "Sanchit Sehgal ",
-      "collegeName": "",
-      "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
-      "internshipDuration": {
-          "start": "October 1, 2024",
-          "end": "April 1, 2025"
-      },
-      "photo": "",
-      "photoSource": "linkedin",
-      "socials": {
-          "github": "https://github.com/Sanchit-aiml",
-          "linkedin": "https://www.linkedin.com/in/sanchitsehgal/",
-          "twitter": "https://x.com/sanchitseh38640?s=11",
-          "email": "mailto:sanchitsehgal16@gmail.com"
-      }
-  },
-  {
       "id": "HH-A88BC7",
       "candidateName": "Divyam Sharma",
-      "collegeName": "",
+      "collegeName": "https://drive.google.com/open?id=1dHhTxHEGXgS1nOaVsimFqdEqFsbqOpsb",
       "certificateType": "Internship",
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
@@ -319,7 +300,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1JNAr5ZZnKsZl89vRIx3h5mN95FyZgb-U",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/Muskankashyap12",
@@ -338,7 +319,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1VMzhJr5kSOpzIJ01odANCtx_MyhblONO",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/aumiidutta",
@@ -357,7 +338,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1g4xsDPy_7HPN9_8MNK_uKyvvywXgoC5H",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/adi271001",
@@ -376,7 +357,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1u_ORvxPHaHojAprYyZ1UJ1kN_W1SLxP0",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/sanskriti2005",
