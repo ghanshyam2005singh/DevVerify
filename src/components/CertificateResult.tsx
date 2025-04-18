@@ -10,7 +10,7 @@ const mockCertificates = [
       "candidateName": "Vedant Anand",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 202"
@@ -29,7 +29,7 @@ const mockCertificates = [
       "candidateName": "Ghanshyam Singh",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "Still Working"
@@ -48,7 +48,7 @@ const mockCertificates = [
       "candidateName": "Anushka Tiwari",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -67,7 +67,7 @@ const mockCertificates = [
       "candidateName": "Ayushmaan Singh yadav ",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -86,7 +86,7 @@ const mockCertificates = [
       "candidateName": "Karishma Seth",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -105,7 +105,7 @@ const mockCertificates = [
       "candidateName": "Piyush Prasad",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -124,7 +124,7 @@ const mockCertificates = [
       "candidateName": "Yash Kumar Saini",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -143,7 +143,7 @@ const mockCertificates = [
       "candidateName": "Harshit Verma ",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -162,7 +162,7 @@ const mockCertificates = [
       "candidateName": "Sayan Rakshit",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -181,7 +181,7 @@ const mockCertificates = [
       "candidateName": "sneha kumari",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -200,7 +200,7 @@ const mockCertificates = [
       "candidateName": "Hetvi Popat",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -219,7 +219,7 @@ const mockCertificates = [
       "candidateName": "Manishka Asrani",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -238,7 +238,7 @@ const mockCertificates = [
       "candidateName": "Devaki Joshi",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -257,7 +257,7 @@ const mockCertificates = [
       "candidateName": "Ramakrushna Biswal",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -276,7 +276,7 @@ const mockCertificates = [
       "candidateName": "Divyam Sharma",
       "collegeName": "https://drive.google.com/open?id=1dHhTxHEGXgS1nOaVsimFqdEqFsbqOpsb",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -295,7 +295,7 @@ const mockCertificates = [
       "candidateName": "Muskan kashyap ",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -314,7 +314,7 @@ const mockCertificates = [
       "candidateName": "Saumili Dutta",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -333,7 +333,7 @@ const mockCertificates = [
       "candidateName": "Aditya D",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
@@ -352,7 +352,7 @@ const mockCertificates = [
       "candidateName": "Sanskriti",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
+      "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
           "end": "April 1, 2025"
