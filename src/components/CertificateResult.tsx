@@ -13,7 +13,7 @@ const mockCertificates = [
       "issuedDate": "April 5, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
-          "end": "April 1, 202"
+          "end": "April 1, 2025"
       },
       "photo": "https://drive.google.com/file/d/1s3bD-U0t_k7JCHVBt2YTBumJvhrBI3K_/view",
       "photoSource": "linkedin",
