@@ -13,7 +13,7 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
-          "end": "April 1, 2025"
+          "end": "April 1, 202"
       },
       "photo": "https://drive.google.com/file/d/1s3bD-U0t_k7JCHVBt2YTBumJvhrBI3K_/view",
       "photoSource": "linkedin",
@@ -32,9 +32,9 @@ const mockCertificates = [
       "issuedDate": "February 15, 2025",
       "internshipDuration": {
           "start": "October 1, 2024",
-          "end": "April 1, 2025"
+          "end": "Still Working"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/file/d/1QiEQMRCdIFM_MZ8dvGSP_bhQOrldxhQa/view",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/ghanshyam2005singh",
@@ -53,7 +53,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/file/d/1o9zeIBAmPYVT2-2NFAgEpHpf0WIqBjbz/view",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/anushka226",
@@ -72,32 +72,13 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1fc2_7Bd3EDB703t5HGx9o54fW6_nc1o_",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/asteriskayush007",
           "linkedin": "https://www.linkedin.com/in/ayushmaansinghyadav/",
           "twitter": "https://x.com/SinghYadav58685",
           "email": "mailto:ayushmaansinghyadav18@gmail.com"
-      }
-  },
-  {
-      "id": "HH-E18B32",
-      "candidateName": "Chiranth Raju C ",
-      "collegeName": "",
-      "certificateType": "Internship",
-      "issuedDate": "February 15, 2025",
-      "internshipDuration": {
-          "start": "October 1, 2024",
-          "end": "April 1, 2025"
-      },
-      "photo": "",
-      "photoSource": "linkedin",
-      "socials": {
-          "github": "https://github.com/CHIRANTH-24/",
-          "linkedin": "https://www.linkedin.com/in/chiranthrajuc/",
-          "twitter": "https://twitter.com/ChiranthRaju",
-          "email": "mailto:chiranthrajuc@gmail.com"
       }
   },
   {
@@ -110,7 +91,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/file/d/1LBG8f18k8rkk3DsSoNwIcITCRkBufqum/view",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/karishmaaa101",
@@ -129,7 +110,7 @@ const mockCertificates = [
           "start": "October 1, 2024",
           "end": "April 1, 2025"
       },
-      "photo": "",
+      "photo": "https://drive.google.com/open?id=1aYkrJKPUorD7-57JjsRXTT2UeTXcZUh8",
       "photoSource": "linkedin",
       "socials": {
           "github": "https://github.com/piyzard",
