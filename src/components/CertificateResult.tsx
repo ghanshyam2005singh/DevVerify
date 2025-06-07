@@ -29,10 +29,53 @@ const mockCertificates = [
       "candidateName": "Ghanshyam Singh",
       "collegeName": "",
       "certificateType": "Internship",
-      "issuedDate": "April 5, 2025",
+      "internshipType": "Full Stack Intern",
+      "issuedDate": "May 21, 2025",
       "internshipDuration": {
-          "start": "October 1, 2024",
+          "start": "December 21, 2024",
           "end": "Still Working"
+      },
+      "photo": "https://drive.google.com/file/d/1QiEQMRCdIFM_MZ8dvGSP_bhQOrldxhQa/view",
+      "photoSource": "linkedin",
+      "socials": {
+          "github": "https://github.com/ghanshyam2005singh",
+          "linkedin": "https://www.linkedin.com/in/ghanshyam-singh-b014232b2/",
+          "twitter": "https://x.com/https_ghanshyam",
+          "email": "mailto:ghanshyam2005singh@gmail.com"
+      }
+  },
+
+   {
+      "id": "HH-DC7DA1",
+      "candidateName": "Ghanshyam Singh",
+      "collegeName": "",
+      "certificateType": "Internship",
+      "internshipType": "Community Manager",
+      "issuedDate": "May 21, 2025",
+      "internshipDuration": {
+          "start": "December 21, 2024",
+          "end": "Still Working"
+      },
+      "photo": "https://drive.google.com/file/d/1QiEQMRCdIFM_MZ8dvGSP_bhQOrldxhQa/view",
+      "photoSource": "linkedin",
+      "socials": {
+          "github": "https://github.com/ghanshyam2005singh",
+          "linkedin": "https://www.linkedin.com/in/ghanshyam-singh-b014232b2/",
+          "twitter": "https://x.com/https_ghanshyam",
+          "email": "mailto:ghanshyam2005singh@gmail.com"
+      }
+  },
+
+   {
+      "id": "HH-DC7DA2",
+      "candidateName": "Ghanshyam Singh",
+      "collegeName": "",
+      "certificateType": "Internship",
+      "internshipType": "Full Stack Intern",
+      "issuedDate": "11 August, 2025",
+      "internshipDuration": {
+          "start": "June 10, 2024",
+          "end": "August 10, 2025"
       },
       "photo": "https://drive.google.com/file/d/1QiEQMRCdIFM_MZ8dvGSP_bhQOrldxhQa/view",
       "photoSource": "linkedin",
@@ -507,6 +550,13 @@ export function CertificateResult() {
                   <p className="text-sm text-gray-500">Certificate Type</p>
                   <p className="font-medium text-gray-900">{certificate.certificateType}</p>
                 </div>
+                {/* Add Internship Type */}
+                {certificate.internshipType && (
+                  <div className="space-y-2">
+                    <p className="text-sm text-gray-500">Internship Type</p>
+                    <p className="font-medium text-gray-900">{certificate.internshipType}</p>
+                  </div>
+                )}
                 <div className="space-y-2">
                   <p className="text-sm text-gray-500">Certificate ID</p>
                   <p className="font-medium text-gray-900">#{certificate.id}</p>
